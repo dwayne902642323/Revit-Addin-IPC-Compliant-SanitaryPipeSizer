@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Sanitary Pipe Sizer</Name>
+    <Assembly>C:\Program Files\Autodesk\SanitaryPipeSizing.dll"</Assembly>
+    <AddInId>5F1D7A9C-57EF-4DC0-9A83-BD15C5E7FDDF</AddInId>
+    <FullClassName>SanitaryPipeSizing.SizeSanitaryPipes</FullClassName>
+    <VendorId>DEUB</VendorId>
+    <VendorDescription>Derek Eubanks</VendorDescription>
+  </AddIn>
+</RevitAddIns>
